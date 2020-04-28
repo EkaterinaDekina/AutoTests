@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/faces.2.x.autotests.iml" filepath="$PROJECT_DIR$/.idea/modules/faces.2.x.autotests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/faces.2.x.autotests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/faces.2.x.autotests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/faces.2.x.autotests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/faces.2.x.autotests.test.iml" />
+    </modules>
+  </component>
+</project>
